@@ -8,8 +8,6 @@ Key Business Insights
 
 Revenue & Profitability: Consistent month-over-month revenue growth with healthy profit margins across most locations; premium store formats delivered the highest profitability.
 
-Footfall & Marketing Impact: Strong correlation between customer footfall and order volume, alongside a positive return on marketing spend.
-
 Cost & Geography: Cost of Goods Sold (COGS) constitutes the largest operational expenditure, with West zone outlets driving a major share of total revenue.
 
 Strategic Takeaway: Focus future capital allocation on high-performing formats/regions while streamlining supply chain and operational costs.
