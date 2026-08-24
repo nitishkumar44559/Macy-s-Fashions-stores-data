@@ -1,5 +1,5 @@
+<img width="391" height="321" alt="image" src="https://github.com/user-attachments/assets/407c51d7-654f-4b43-b173-0b26def25509" />
 
-<img width="853" height="561" alt="Macy&#39;s per month profit stores" src="https://github.com/user-attachments/assets/66bc8cfb-55a8-4624-b6c4-6b73a65ee1c9" />
 
 
 This project presents an end-to-end exploratory data analysis of retail performance across Macy's Fashion stores. By evaluating sales trends, operational expenses, customer footfall, and marketing effectiveness, the analysis highlights key revenue drivers and actionable business strategies for operational efficiency.
