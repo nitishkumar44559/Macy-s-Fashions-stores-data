@@ -8,6 +8,23 @@ Footfall & Marketing Impact: Strong correlation between customer footfall and or
 
 Cost & Geography: Cost of Goods Sold (COGS) constitutes the largest operational expenditure, with West zone outlets driving a major share of total revenue.
 
-Strategic Takeaway: Focus future capital allocation on high-performing formats/regions while streamlining supply chain and operational costs.<img width="526" height="502" alt="region profit macys" src="https://github.com/user-attachments/assets/dd21db7c-fbd6-4b0f-a777-2979316c6fdb" />
-<img width="853" height="561" alt="Macy&#39;s per month profit stores" src="https://github.com/user-attachments/assets/e18b3cb8-6eae-4915-a22e-0b76e40a2794" />
+Strategic Takeaway: Focus future capital allocation on high-performing formats/regions while streamlining supply chain and operational costs.
+
+#PROJECT AND DATA CLEANING
+
+1. <img width="910" height="119" alt="image" src="https://github.com/user-attachments/assets/a395f157-ad20-4e5a-8fc9-67e30a522dc5" />
+
+
+2. #CHECKING HEADERS AND CLEANING DATA
+<img width="929" height="350" alt="image" src="https://github.com/user-attachments/assets/c5f5d43a-5a23-4316-81a7-3b08cd133faf" />
+
+3. #CHECKED WHAT DATA IS DESCRIBING
+   <img width="886" height="261" alt="image" src="https://github.com/user-attachments/assets/6cfacb47-5b01-4596-bb30-055a800042a9" />
+
+4. FINDINGS OF NULL VALUE
+   <img width="764" height="342" alt="image" src="https://github.com/user-attachments/assets/47e2a44a-5af9-422e-ab6c-90a3f23225bc" />
+
+
+   
+
 
