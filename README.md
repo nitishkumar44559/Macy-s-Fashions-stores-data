@@ -216,6 +216,33 @@ BUSINESS INSIGHTS BASED ON ABOVE DATASET
 <img width="703" height="321" alt="image" src="https://github.com/user-attachments/assets/42c71e69-a848-41af-bb74-d72c74110a14" />
 
 
+--------------------------------------------------------------------------------------------------------------------
+
+
+🚀 Strategic Recommendations
+----------------------------------------------------------------------------------------------------------
+
+1. Double Down on High-Performing Assets:
+
+Scale the West Zone:   Since the West zone significantly drives your top-line revenue, prioritize capital allocation there. Open new outlets, expand inventory variety, or launch local market campaigns in this region first.
+
+
+Expand Premium Store Formats:  Premium formats yield higher profitability. Replicate this store layout or customer experience framework when upgrading older outlets or opening new ones.
+
+Tiered Resource Allocation:  Divert a larger portion of your budget to high-performing locations during peak footfall seasons to ensure they are fully stocked and staffed.
+
+
+
+
+2. Cost Control & Margin Management :
+   
+
+ Protect Healthy Profit Margins:  Establish automated alerts or price-adjustment protocols so that if supplier costs rise, retail prices shift slightly to maintain your baseline healthy margin.
+ 
+
+ Optimize Marketing Spends:  Since marketing spend shows a positive relationship with revenue, it is working well. Run data-driven digital ads targeting zip codes immediately surrounding your premium and West zone outlets to maximize conversion rates.
+
+
 
 
 
